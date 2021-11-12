@@ -30,15 +30,13 @@ h4{
 
 p {
   font-size: 15px;
-  font: Arial;
+  font: georgia;
   white-space: normal;
-  text-overflow: ellipsis;
   overflow: inherit;
   font-weight: lighter;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  padding-left: 20px;
-  padding-right: 20px;
+  margin: 40px;
+  width: 900px;
+
 }
 
 table, th, td{
@@ -48,10 +46,7 @@ table, th, td{
   font-size: 12px;
   background: #133253;
 
-  padding-left: 30px;
-  padding-right: 30px;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  margin: 15px;
 }
 
 table
