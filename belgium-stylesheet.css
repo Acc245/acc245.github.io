@@ -51,16 +51,10 @@ th{
   color: #ffffff;
 }
 
-img{
+img, figcaption{
   float: right;
   padding: 20px;
-}
-
-figcaption {
-  display: inline;
   font-size: 12px;
-  float: right;
-  padding: 12px;
 }
 
 
