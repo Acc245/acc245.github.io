@@ -20,6 +20,10 @@ h3{
 
 }
 
+h4{
+  background-color: #DFEBF6;
+}
+
 p {
   font-size: 15px;
   font: Arial;
@@ -35,6 +39,11 @@ table, th, td{
   width: 50%;
   font-size: 12px;
   background: #133253;
+
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 table
@@ -48,21 +57,41 @@ img{
 }
 
 figcaption {
+  display: inline;
   font-size: 12px;
   float: right;
   padding: 12px;
 }
 
+
 a{
   color: #83B0E1;
 }
 
+a:link {
+  color: #6BA1DB;
+}
+a:visited {
+  color: #3A82CF;
+}
+
+a:hover {
+  color: #2864A4;
+}
+
+a:active {
+  color: #1C4673;
+}
+
+
 
 footer {
   font-size: 10px;
-
 }
 
 article {
+  padding-bottom: 20px;
   padding-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
