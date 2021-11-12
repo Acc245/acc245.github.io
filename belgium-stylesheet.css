@@ -1,8 +1,15 @@
-stylesheet
-
+body {
+  background: #F7F0EE;
+  font-family: Verdana;
+}
 h1 {
-  font-family: "Diosis";
-  font-size: 55px;
-  text-align: left;
-  text-decoration: underline;
+  color: #3F2D4E
+  text-align:left;
+  font-size: 20px;
+}
+h2 {
+  font-size: 16px;
+}
+p {
+  font-size: 12px
 }
