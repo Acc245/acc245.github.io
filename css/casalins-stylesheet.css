@@ -73,6 +73,8 @@ a:link {
   font-weight: lighter;
   font-variant: normal;
   font-size: 18px;
+  padding: 10px,10px;
+  display: inline-block;
 }
 
 a:visited {
@@ -90,13 +92,4 @@ a:active {
   color: #603808;
   text-decoration: underline;
   font-weight: bold;
-}
-
-a:link, a:visited {
-  background-color: #8B5E34,inherit;
-  padding: 10px,10px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-
 }
