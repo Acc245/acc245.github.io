@@ -9,7 +9,7 @@ div {
   border: 2px #a47148;
   border-radius: 5px;
   border-style: outset;
-  width: 200px;
+  width: 300px;
 }
 
 h1 {
@@ -80,5 +80,5 @@ a {
   font-style: normal;
   font-weight: lighter;
   font-variant: normal;
-  font-size: 20px;
+  font-size: 18px;
 }
