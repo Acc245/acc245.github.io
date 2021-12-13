@@ -106,9 +106,9 @@ a:active {
   font-weight: bold;
 }
 
-img{
-  display: block;
-  margin-left: none;
-  margin-right: auto;
-  width: 50%;
+img {
+  float: right;
+  width: 200px;
+  border: none;
+  padding: 5px;
 }
