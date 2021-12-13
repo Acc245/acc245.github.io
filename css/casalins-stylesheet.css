@@ -113,9 +113,22 @@ a:active {
 }
 
 img {
-  opacity: .8;
+  opacity: .9;
 }
 
 img:hover {
   opacity: 1.0;
+}
+
+li{
+  display: inline;
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
 }
