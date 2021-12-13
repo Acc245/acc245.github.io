@@ -127,8 +127,9 @@ li{
 
 li a {
   display: block;
-  color: #F3D5B5;
+  border: 1px;
+  border-color: #FFEDD8;
   text-align: center;
-  padding: 20px;
+  padding: 50px;
   text-decoration: none;
 }
