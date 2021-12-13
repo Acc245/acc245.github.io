@@ -108,9 +108,8 @@ a:active {
 
 .logo {
   float: right;
-  position: absolute;
   top: 0px;
   right: 0px;
-  width: 300px;
+  width: 200px;
   border: none;
 }
