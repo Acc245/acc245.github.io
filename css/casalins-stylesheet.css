@@ -3,15 +3,6 @@ body {
   color: #000000;
 }
 
-div {
-  background-color: #f3d5b5;
-  opacity: 0.5;
-  border: 2px #a47148;
-  border-radius: 5px;
-  border-style: outset;
-  width: 300px;
-}
-
 h1 {
   color: ;
   text-align: left;
