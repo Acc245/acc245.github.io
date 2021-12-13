@@ -94,3 +94,9 @@ a:hover {
   text-decoration: underline;
   font-weight: normal;
 }
+
+a:active {
+  color: #603808;
+  text-decoration: underline;
+  font-weight: bold;
+}
