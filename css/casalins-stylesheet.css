@@ -22,6 +22,7 @@ h1 {
   font-weight: bolder;
   font-variant: small-caps;
   font-size: 40px;
+  position: static;
 }
 
 h2 {
@@ -99,4 +100,10 @@ a:active {
   color: #603808;
   text-decoration: underline;
   font-weight: bold;
+}
+
+.foo img:first-child{
+  position:sticky;
+  top: 1;
+
 }
