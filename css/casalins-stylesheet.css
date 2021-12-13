@@ -17,8 +17,8 @@ h1 {
   text-align: left;
   letter-spacing: 3px;
   line-height: none;
-  text-shadow: .5px .5px 5px #6F4518;
-  font-family: Arial, Helvetica, sans-serif;
+  text-shadow: .5px .5px 5px #E7BC91;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 h2 {
@@ -26,7 +26,7 @@ h2 {
   text-align: left;
   letter-spacing: 3px;
   line-height: 1.0;
-  font:
+  font-family: Monaco, Lucida, monospace;
 }
 
 h3 {
@@ -49,6 +49,7 @@ p {
   letter-spacing: 1px;
   line-height: 1.2;
   white-space: normal;
+  font-family: times, georgia, serif;
 }
 
 
