@@ -3,5 +3,6 @@ body {
 }
 
 div {
-  background-color: #e7bc91
+  background-color: #f3d5b5,
+  opacity: 0.5
 }
