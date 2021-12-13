@@ -75,6 +75,10 @@ p {
   overflow: visible;
 }
 
+img {
+  float: right;
+}
+
 
 a:link {
   color: #603808;
