@@ -57,6 +57,18 @@ h4 {
   font-size: 18px;
 }
 
+h5 {
+  color: #583101;
+  text-align: left;
+  letter-spacing: 1px;
+  line-height: 1.2;
+  font-family: Helvetica, Arial, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-variant: normal;
+  font-size: 15px;
+}
+
 p {
   color:  ;
   text-align: left;
@@ -109,6 +121,10 @@ a:active {
 
 img {
   opacity: .9;
+  float: none;
+  width: auto;
+  height: 400px;
+  object-fit: contain;
 }
 
 img:hover {
@@ -132,4 +148,8 @@ img:hover {
   grid-template-rows: 500px 400px;
   justify-content: start;
   align-content: space-evenly;
+}
+
+.me {
+  float: right;
 }
