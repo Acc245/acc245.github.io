@@ -113,6 +113,10 @@ a:active {
   width: 200px;
 }
 
-img{
-  
+img {
+  opacity: .8;
+}
+
+img:hover {
+  opacity: 1.0;
 }
