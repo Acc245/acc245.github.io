@@ -6,7 +6,7 @@ div {
   background-color: #f3d5b5;
   opacity: 0.5;
   border: 2px #a47148;
-  border-radius: 0.5px;
+  border-radius: 0.5 px;
   border-style: outset;
   width: 200px;
 }
