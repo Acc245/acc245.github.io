@@ -17,7 +17,7 @@ h1 {
   text-align: left;
   letter-spacing: 3px;
   line-height: none;
-  text-shadow: 1px 1px 5px #6F4518;
+  text-shadow: .5px .5px 5px #6F4518;
 }
 
 h2 {
