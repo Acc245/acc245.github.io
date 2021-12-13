@@ -10,6 +10,7 @@ div {
   border-radius: 5px;
   border-style: outset;
   width: 300px;
+  float: left;
 }
 
 h1 {
@@ -38,7 +39,6 @@ h2 {
 
 img {
   float: right;
-
 }
 
 h3 {
