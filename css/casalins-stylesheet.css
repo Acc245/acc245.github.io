@@ -8,7 +8,7 @@ nav {
   opacity: 0.5;
   border: 2px #a47148;
   border-radius: 5px;
-  border-style: outset;
+  border-style: hidden;
   width: 300px;
 }
 
