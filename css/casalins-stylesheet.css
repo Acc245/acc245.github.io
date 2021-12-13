@@ -1,11 +1,11 @@
 nav {
   background-color: #FFEDD8;
-  opacity: 0.8;
-  border: 2px #a47148;
-  border-radius: 2px;
+  opacity: 0.6;
+  border: 3px #a47148;
+  border-radius: 3px;
   border-style: hidden;
-  width: 100px;
-  position: sticky;
+  width: 90px;
+  height: 80px;
 }
 
 h1 {
@@ -69,6 +69,17 @@ h5 {
   font-size: 15px;
 }
 
+.signature {
+  text-align: left;
+  letter-spacing: 1px;
+  line-height: 1.2;
+  font-family: Brush script MT, cursive;
+  font-style: normal;
+  font-weight: bold;
+  font-variant: normal;
+  font-size: 25px;
+}
+
 p {
   color:  ;
   text-align: left;
@@ -121,13 +132,6 @@ a:active {
   font-weight: bold;
 }
 
-.logo {
-  position: absolute;
-  top: 0px;
-  right: 0px;
-  width: 200px;
-}
-
 img {
   opacity: .9;
   float: none;
@@ -177,4 +181,11 @@ article {
   float: right;
   width: auto;
   height: 300px;
+}
+
+.logo {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 200px;
 }
