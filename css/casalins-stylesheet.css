@@ -18,7 +18,7 @@ h1 {
   letter-spacing: 3px;
   line-height: none;
   text-shadow: .5px .5px 5px #E7BC91;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Monaco, Lucida, monospace;
 }
 
 h2 {
@@ -26,7 +26,7 @@ h2 {
   text-align: left;
   letter-spacing: 3px;
   line-height: 1.0;
-  font-family: Monaco, Lucida, monospace;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 h3 {
