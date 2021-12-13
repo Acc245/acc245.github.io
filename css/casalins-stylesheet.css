@@ -1,16 +1,11 @@
-body {
-  background-color: #ffffff
-  color: #000000;
-}
-
 nav {
-  background-color: #f3d5b5;
-  opacity: 0.5;
+  background-color: #FFEDD8;
+  opacity: 0.8;
   border: 2px #a47148;
-  border-radius: 5px;
+  border-radius: 2px;
   border-style: hidden;
-  width: 300px;
-  margin: left;
+  width: 100px;
+  position: sticky;
 }
 
 h1 {
@@ -73,7 +68,7 @@ p {
   font-weight: normal;
   font-variant: normal;
   font-size: 15px;
-  width: 700px;
+  width: 900px;
   overflow: visible;
 }
 
@@ -120,16 +115,21 @@ img:hover {
   opacity: 1.0;
 }
 
-li{
-  display: inline;
-  float: left;
+.grid-container {
+  display: grid;
+  grid-column-gap: 20px;
+  grid-row-gap: 20px;
+  grid-gap: 20px;
 }
 
-li a {
-  display: block;
-  border: 1px;
-  border-color: #FFEDD8;
-  text-align: center;
-  padding: 50px;
-  text-decoration: none;
+.header{
+
+}
+
+.main{
+  display: grid;
+  grid-template-columns: 250px 250px 250px 250px;
+  grid-template-rows: 500px 400px;
+  justify-content: start;
+  align-content: space-evenly;
 }
