@@ -15,10 +15,9 @@ nav {
 
 
 h1 {
-  color: ;
   text-align: left;
   letter-spacing: 3px;
-  line-height: none;
+  line-height: 1;
   font-family: Helvetica, Arial, sans-serif;
   font-style: normal;
   font-weight: bolder;
@@ -27,7 +26,6 @@ h1 {
 }
 
 h2 {
-  color: ;
   text-align: left;
   letter-spacing: 3px;
   line-height: 1.0;
@@ -87,7 +85,6 @@ h5 {
 }
 
 p {
-  color:  ;
   text-align: left;
   letter-spacing: 1px;
   line-height: 1.2;
