@@ -8,6 +8,14 @@ nav {
   height: 80px;
 }
 
+.logo {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 200px;
+}
+
+
 h1 {
   color: ;
   text-align: left;
@@ -181,11 +189,4 @@ article {
   float: right;
   width: auto;
   height: 300px;
-}
-
-.logo {
-  position: absolute;
-  top: 0px;
-  right: 0px;
-  width: 200px;
 }
