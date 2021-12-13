@@ -24,9 +24,6 @@ h1 {
   font-weight: bolder;
   font-variant: small-caps;
   font-size: 40px;
-  position: fixed;
-  top: 0px;
-  right: 0px;
 }
 
 h2 {
@@ -39,10 +36,6 @@ h2 {
   font-weight: lighter;
   font-variant: normal;
   font-size: 25px;
-  position: fixed;
-  top: 20px;
-  right: 0px;
-
 }
 
 
