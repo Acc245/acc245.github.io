@@ -105,3 +105,10 @@ a:active {
   text-decoration: underline;
   font-weight: bold;
 }
+
+img{
+  display: block;
+  margin-left: none;
+  margin-right: auto;
+  width: 50%;
+}
