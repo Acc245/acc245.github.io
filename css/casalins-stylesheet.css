@@ -38,6 +38,17 @@ h2 {
 
 img {
   float: right;
+
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.box {
+  float: left;
+  width: 33.33%;
+  padding: 50px;
 }
 
 h3 {
