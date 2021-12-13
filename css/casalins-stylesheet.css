@@ -18,7 +18,9 @@ h1 {
   letter-spacing: 3px;
   line-height: none;
   text-shadow: .5px .5px 5px #E7BC91;
-  font-family: Courier, Lucida, monospace;
+  font-family: Helvetica, Arial, sans-serif;
+  font-style: normal;
+  font-weight: lighter;
 }
 
 h2 {
@@ -26,7 +28,9 @@ h2 {
   text-align: left;
   letter-spacing: 3px;
   line-height: 1.0;
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: Tahoma, Arial, sans-serif;
+  font-style: normal;
+  font-weight: 200;
 }
 
 h3 {
@@ -34,6 +38,9 @@ h3 {
   text-align: left;
   letter-spacing: 1px;
   line-height: 1.0;
+  font-family: Helvetica, Arial, sans-serif;
+  font-style: normal;
+  font-weight: bold;
 }
 
 h4 {
@@ -41,6 +48,9 @@ h4 {
   text-align: left;
   letter-spacing: 1px;
   line-height: 1.2;
+  font-family: Helvetica, Arial, sans-serif;
+  font-style: normal;
+  font-weight: bold;
 }
 
 p {
@@ -50,6 +60,8 @@ p {
   line-height: 1.2;
   white-space: normal;
   font-family: times, georgia, serif;
+  font-style: normal;
+  font-weight: normal;
 }
 
 
