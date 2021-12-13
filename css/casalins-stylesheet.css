@@ -100,3 +100,13 @@ a:active {
   text-decoration: underline;
   font-weight: bold;
 }
+
+a:link, a:visited {
+  background-color: #8B5E34,inherit;
+  color: #ffffff;
+  padding: 10px,10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+
+}
