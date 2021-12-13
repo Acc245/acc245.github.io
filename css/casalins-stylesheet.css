@@ -36,6 +36,10 @@ h2 {
   font-size: 25px;
 }
 
+img {
+  float: right;
+}
+
 h3 {
   color: #583101;
   text-align: left;
@@ -73,10 +77,6 @@ p {
   font-size: 15px;
   width: 700px;
   overflow: visible;
-}
-
-img {
-  float: right;
 }
 
 
