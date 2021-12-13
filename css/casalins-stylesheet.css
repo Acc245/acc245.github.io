@@ -18,6 +18,7 @@ h1 {
   letter-spacing: 3px;
   line-height: none;
   text-shadow: .5px .5px 5px #6F4518;
+  font: "Helvetica", Helvetica, sans-serif;
 }
 
 h2 {
