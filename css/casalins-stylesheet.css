@@ -1,5 +1,6 @@
 body {
   background-color: #ffffff
+  color: #000000;
 }
 
 div {
@@ -9,4 +10,29 @@ div {
   border-radius: 5px;
   border-style: outset;
   width: 200px;
+}
+
+h1 {
+  color: ;
+  text-align: center;
+}
+
+h2 {
+  color: ;
+  text-align: center;
+}
+
+h3 {
+  color: ;
+  text-align: center;
+
+}
+
+h4 {
+  color: ;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
 }
