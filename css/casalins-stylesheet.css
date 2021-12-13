@@ -16,25 +16,28 @@ h1 {
   color: ;
   text-align: left;
   letter-spacing: 3px;
+  line-height: none;
 }
 
 h2 {
   color: ;
   text-align: left;
   letter-spacing: 3px;
+  line-height: 1.0;
 }
 
 h3 {
   color: ;
   text-align: left;
   letter-spacing: 1px;
-
+  line-height: 1.0;
 }
 
 h4 {
   color: ;
   text-align: left;
   letter-spacing: 1px;
+  line-height: 1.0;
 }
 
 a {
