@@ -6,4 +6,5 @@ div {
   background-color: #f3d5b5;
   opacity: 0.5;
   border-style: outset;
+  width: auto;
 }
