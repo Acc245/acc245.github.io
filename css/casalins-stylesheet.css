@@ -10,7 +10,6 @@ div {
   border-radius: 5px;
   border-style: outset;
   width: 300px;
-  float: left;
 }
 
 h1 {
@@ -37,9 +36,6 @@ h2 {
   font-size: 25px;
 }
 
-img {
-  float: right;
-}
 
 h3 {
   color: #583101;
