@@ -41,16 +41,6 @@ img {
 
 }
 
-* {
-  box-sizing: border-box;
-}
-
-.box {
-  float: left;
-  width: 33.33%;
-  padding: 50px;
-}
-
 h3 {
   color: #583101;
   text-align: left;
