@@ -75,10 +75,22 @@ p {
 
 
 a {
+  color: #603808;
   text-decoration: none;
   font-family: Tahoma, Arial, sans-serif;
   font-style: normal;
   font-weight: lighter;
   font-variant: normal;
   font-size: 18px;
+}
+
+a:visited {
+  color: #A47148;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #BC8A5F;
+  text-decoration: underline;
+  font-weight: normal;
 }
